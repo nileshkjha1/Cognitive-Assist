@@ -1,0 +1,17 @@
+{
+  "name": "AI Dementia Guardian",
+  "short_name": "Guardian",
+  "description": "AI-powered memory assistant for dementia patients",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
