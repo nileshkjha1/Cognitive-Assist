@@ -81,9 +81,11 @@ To build a real-time cognitive assistance system that enhances patient independe
 
 ---
 
-## Project Maintainer
+## Project Maintainers
 
-**Nilesh Kumar Jha**
+**Nilesh Kumar Jha and Team**
+
+Developed collaboratively as part of an academic project.
 
 ---
 
